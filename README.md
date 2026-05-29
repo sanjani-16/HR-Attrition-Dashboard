@@ -64,6 +64,17 @@ Provides detailed employee analysis based on:
 
 The dashboard transforms raw HR data into actionable insights, helping organizations understand employee attrition patterns and improve workforce planning.
 
+## Dashboard Screenshots
+
+### HR Overview Dashboard
+
+![HR Overview](hr%20overview.png)
+
+### Employee Insights Dashboard
+
+![Employee Insights](employee%20insights.png)
+
+
 ## Author
 
 T. Sanjani
